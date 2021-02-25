@@ -1,0 +1,8 @@
+{
+  "id": 2345,
+  "name": "The Gherkin",
+  "address": "30 St Mary Axe, London EC3A 8EP",
+  "postcode": "EC3A 8EP",
+  "coordinates": [0.0803, 51.5145],
+  "floorarea": 47950
+}
